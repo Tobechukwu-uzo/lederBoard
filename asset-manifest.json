@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lederBoard/static/css/main.04ac2261.css",
+    "main.js": "/lederBoard/static/js/main.84419ec5.js",
+    "static/js/453.a81bd64f.chunk.js": "/lederBoard/static/js/453.a81bd64f.chunk.js",
+    "index.html": "/lederBoard/index.html",
+    "main.04ac2261.css.map": "/lederBoard/static/css/main.04ac2261.css.map",
+    "main.84419ec5.js.map": "/lederBoard/static/js/main.84419ec5.js.map",
+    "453.a81bd64f.chunk.js.map": "/lederBoard/static/js/453.a81bd64f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04ac2261.css",
+    "static/js/main.84419ec5.js"
+  ]
+}
